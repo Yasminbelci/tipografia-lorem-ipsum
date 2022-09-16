@@ -1,0 +1,36 @@
+body{
+    width: 100%;
+    margin: auto;
+    font-family: 'Georgia';
+    color:rgb(0, 0, 0);
+    text-align: justify;
+}
+
+h1{
+    font-family:'Times New Roman';
+    color: rgb(119, 17, 17);
+    font-size: 30px;
+}
+
+h2{
+    font-family:'Impact';
+    color: rgb(16, 14, 104);
+    font-size: 30px;
+}
+
+h3{
+    font-family: 'sans-serif';
+    color: rgb(243, 229, 31);
+    font-size: 30px;
+}
+
+h4{
+    font-family:'Franklin Gothic Medium';
+    color: rgb(30, 223, 62);
+    font-size: 30px;
+}
+
+main{
+
+    background: #79b5bd;
+}
